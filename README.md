@@ -41,4 +41,5 @@ https://github.com/vcapella/03_password_generator_JS
 
 
 
+![mock-up_picture](https://user-images.githubusercontent.com/90168071/133956215-a0402ccb-7abc-4106-8d56-0784e20ec28e.JPG)
 
