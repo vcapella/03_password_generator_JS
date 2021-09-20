@@ -28,6 +28,10 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
+#### Application BUG (to fix)
+
+When opening the link for the first time, the password generated shows as "UNDEFINIED", but on the second try onwards the "Password Generator" functions accordingly.
+
 ### Deployed Application
 
 https://vcapella.github.io/03_password_generator_JS/
